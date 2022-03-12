@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently studying programming in **MisionTIC 2022** and Data Analytics in **Coursera**
+- 🔭 I’m currently studying Data Analytics in **Coursera**
 
 - 🌱 I’m currently learning **Python, Java, JavaScript, HTML, MySQL, R, etc.**
 
