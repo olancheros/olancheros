@@ -1,13 +1,14 @@
 <h1 align="left">Hi 👋, I'm Oscar O. Lancheros R.</h1>
-<p align="left">I studied physics at Universidad Nacional de Colombia and, for more than 18 years I did work in the oil & gas industry, focused on seismic data analysis and processing one and multicomponent. A few years ago, at the end of a seismic data processing project, I led a team of 12 people, that was challenged to generate and deliver in a short time, 1.8 petabytes of final seismic products, recorded on tape with 8 terebytes capacity. To accomplish that task, I had to develop a series of scripts in Perl and Bash that helped me out to automatize different tasks for the product generation, including the QA/QC stages, as well as the tape label generation. So, at that moment, I just realized how helpful coding is, and for such reason now I am studying it and seeking new opportunities in this knowledge area.</p>
+<p align="left">I studied physics at Universidad Nacional de Colombia, and currently studying <strong>Software Analysis and Development</strong> at SENA. I am an experienced Data Engineer and QA specialist with a demonstrated history of working in the oil & gas industry worldwide for over 20 years.</p>
+<p align="left">A few years ago, at the end of a seismic data processing project, I led a team of 12 people, that was challenged to generate and deliver in a short time, 1.8 petabytes of final seismic products, recorded on tape with 8 terebytes capacity. To accomplish that task, I had to develop a series of scripts in Perl and Bash that helped me out to automatize different tasks for the product generation, including the QA/QC stages, as well as the tape label generation. So, at that moment, I just realized how helpful coding is, and for such reason now I am studying it and seeking new opportunities in this knowledge area.</p>
 
 
 
-- 🔭 I’m currently studying Data Analytics in **Coursera**
+- 🔭 I’m currently studying Software Analysis and Development at **SENA**
 
 - 🌱 I’m currently learning **Python, Java, JavaScript, HTML, MySQL, R, etc.**
 
-- 😄 My hobbies: I like to read articles about science, data science, data analytics and, programming. Also, I love listening to rock music.
+- 😄 My hobbies: I like to read articles about science, data science, data analytics, QA, project managment and, programming. Also, I love listening to rock music.
 
 - 📫 How to reach me **olancheros@gmail.com**
 
