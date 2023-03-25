@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Oscar O. Lancheros R.</h1>
-<p align="left">I studied physics at Universidad Nacional de Colombia, and currently studying <strong>Software Analysis and Development</strong> at SENA. I am an experienced Data Engineer and QA specialist with a demonstrated history of working in the oil & gas industry worldwide for over 20 years.</p>
-<p align="left">A few years ago, at the end of a seismic data processing project, I led a team of 12 people, that was challenged to generate and deliver in a short time, 1.8 petabytes of final seismic data products, recorded on tapes with 8 terabytes capacity. To accomplish that task, I had to develop a series of scripts in Perl and Bash that helped me out to automatize different tasks for the product generation, including the QA/QC stages, as well as the tape label generation. So, at that moment, I just realized how helpful coding is, and for such reason now I am studying it and seeking new opportunities in this knowledge area.</p>
+<p align="left">I studied physics at Universidad Nacional de Colombia, and am currently studying <strong>Software Analysis and Development</strong> at SENA. I have over 20 years of experience as a Data Engineer and QA specialist in the oil & gas industry, having worked on projects worldwide.</p>
+<p align="left">A few years ago, at the end of a seismic data processing project, I led a team of 12 people, that was challenged to generate and deliver in a short time, 1.8 petabytes of final seismic data products, recorded on tapes with 8 terabytes capacity. To accomplish this, I developed scripts in Perl and Bash to automate various tasks related to product generation, QA/QC, and tape label creation. This experience made me realize the importance of coding.</p>
 
 
 
 - 🔭 I’m currently studying Software Analysis and Development at **SENA**
 
-- 🌱 I’m currently learning **Python, Java, JavaScript, HTML, MySQL, R, etc.**
+- 🌱 I’m currently learning **Python, JavaScript, HTML, MySQL, etc.**
 
 - 😄 My hobbies: I like to read articles about science, data science, data analytics, QA, project managment and, programming. Also, I love listening to rock music.
 
