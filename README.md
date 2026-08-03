@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Oscar O. Lancheros R.</h1>
-<p align="left">I studied physics at Universidad Nacional de Colombia, and am currently studying <strong>Software Analysis and Development</strong> at SENA. I have over 20 years of experience as a Data Engineer and QA specialist in the oil & gas industry, having worked on projects worldwide.</p>
+<p align="left">I studied physics at Universidad Nacional de Colombia, and am currently studying <strong>Data Science</strong> at Fundación Universitaria Compensar. I have over 23 years of experience as a Data Engineer and QA specialist in the oil & gas industry, having worked on projects worldwide.</p>
 <p align="left">A few years ago, at the end of a seismic data processing project, I led a team of 12 people, that was challenged to generate and deliver in a short time, 1.8 petabytes of final seismic data products, recorded on tapes with 8 terabytes capacity. To accomplish this, I developed scripts in Perl and Bash to automate various tasks related to product generation, QA/QC, and tape label creation. This experience made me realize the importance of coding.</p>
 
 
 
-- 🔭 I’m currently studying Software Analysis and Development at **SENA**
+- 🔭 I’m currently studying Data Science at **Fundación Universitaria Compensar**
 
-- 🌱 I’m currently learning **Python, JavaScript, HTML, MySQL, etc.**
+- 🌱 I’m currently learning **Geospatial data science and its applications to Wildfire**
 
 - 😄 My hobbies: I like to read articles about science, data science, data analytics, QA, project managment and, programming. Also, I love listening to rock music.
 
